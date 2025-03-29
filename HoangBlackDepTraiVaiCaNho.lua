@@ -164,7 +164,7 @@ v5.Window = function(v134, v135)
 	v170.BackgroundColor3 = Color3.fromRGB(0, 0, 0);
 	v170.BackgroundTransparency = 1.1;
 	v170.Position = UDim2.new(0.405426834, 0, 0.075000003, 0);
-	v170.Size = UDim2.new(0, 500, 0, 325);
+	v170.Size = UDim2.new(0, 263, 0, 500);
 	v170.Image = "http://www.roblox.com/asset/?id="   .. tostring(133662246764578) ;
 	local v178 = Instance.new("UICorner");
 	v178.Name = "MCNR";
